@@ -58,7 +58,8 @@ if os.path.exists("Internal"):
 API_ID = int(getenv("API_ID", "20883765"))
 API_HASH = getenv("API_HASH", "8fe7c465d01b1bee8c2156143654ecd1")
 BOT_TOKEN = getenv("BOT_TOKEN", "7003201598:AAHAkwHYDgHTZgftpPej_ep2CgLXSTIMZaw")
-STRING_SESSION = getenv("STRING_SESSION", "BQE-qTUAqDzOvMtdXsq3Fjzjx9mpVtAVxhD5Qj5G7YvQhZATknZBp2NceRdl_7NkYyLw-B2spiTn47O46vINlYBia7KeY9mwUn8qSbtVXE3kFA4yRQ70WaQPcEiaqzla3KHwVwPbFOfR10xwiRsUl9TDd4zXaj1ld4BYVkyWOSmo_vidjPCo1icviFVAzE1_Y8Erm5hImUokK9QYttckGbmuMwJgp7huJiauowPJot06gMfHg5Vm9QTcWFLvLdoZhMAHzqGEmIODGwWwbq0TFILife610fX5q1ee4dzuU3B-dvnzRLoG9TWedSZsA8DI-2ATleEOEqZrr8xKKL0eq0itv7IXcAAAAAGgWO11AA")
+STRING_SESSION = getenv("STRING_SESSION", "[8:42 pm, 23/8/2024] 𑫏ⳢⅬᤌໍᤌ᭄ᰈⅬᤌໍᤌ𑂞ⳣവᰈᮀ།: ennaa
+[8:43 pm, 23/8/2024] 𑫏ⳢⅬᤌໍᤌ᭄ᰈⅬᤌໍᤌ𑂞ⳣവᰈᮀ།: BQE-qTUAULWCoYYb4wEgGSYcxJsfEVJsSlDiVg4iO4MA9gOMdRziIEBXo9WCfRxylwkknUKFs9inDrTZ9zAADBcRAy2ZK7xUuuICQjKWE08ciS9O-7oeZpEbUL9CzecAlGqyv0i0BuNAwDS_M4XHuimlgVYqwjydYrH1oRFp7jFNSBfxt5WRjftGNNVfkiKeOzTlUv6tN6wtf4Zyc8m8429chHW9j28Vu6QHfq6IbzGd_Oz6o0GOwL9_69kbt4lc62RPRLK4pMRM204bbKV4UnJERfwADJu300LI_hRRYh_EcT0IR18tdL9phUkJsUJWIMBLHRPGgIDYN1KoKELm39mCjCOi7wAAAAGgWO11AA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://admin:pass@cluster0.bqss1.mongodb.net/todo?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 
